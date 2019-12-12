@@ -1,0 +1,10 @@
+﻿  pch.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Fox_.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Создание кода
+  0 of 86 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Fox_.vcxproj -> D:\МОЕ\Проекты IT\Парал прог\OpenMP&TBB\Fox_Par\Release\Fox_.exe
